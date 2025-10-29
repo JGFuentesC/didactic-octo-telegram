@@ -1,0 +1,4 @@
+pandas
+woe-credit-scoring
+functions-framework ## Funciones de Cloud Run de Google 
+Flask
